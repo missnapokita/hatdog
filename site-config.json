@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0",
+  "version": "1.0",
   "lastUpdate": "Aug 25, 2026",
   "downloads": "New release",
-  "apkSize": "Coming soon",
+  "apkSize": "25mb",
   "developer": "Zen Dev",
   "primaryDownloadUrl": "https://example.com/masterkit-injector.apk",
   "alternativeDownloadUrl": "https://example.com/masterkit-injector-mirror.apk",
   "telegramUsername": "pritong_cornbeff",
   "shizukuTutorialUrl": "https://youtu.be/0Wlt2i9biF0?si=hvgd0oD9l6g10R1-",
-  "headerLogoUrl": "",
-  "heroLogoUrl": "https://raw.githubusercontent.com/missnapokita/masterkiter/refs/heads/main/jajajs.png"
+  "headerLogoUrl": "https://raw.githubusercontent.com/missnapokita/apps/refs/heads/main/icon/Round%20Photo_Jul182026_181317.png",
+  "heroLogoUrl": "https://raw.githubusercontent.com/missnapokita/apps/refs/heads/main/icon/Screenshot_20260816_204027.jpg"
 }
