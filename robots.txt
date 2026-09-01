@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://masterkit.it.com/sitemap.xml
