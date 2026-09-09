@@ -1,10 +1,10 @@
 {
   "enabled": true,
-  "download_url": "https://raw.githubusercontent.com/missnapokita/apps/main/Masterkit%20V3.apk",
-  "version": "1.0",
+  "download_url": "https://raw.githubusercontent.com/missnapokita/hatdog/main/assets/Masterkit%20V4.apk",
+  "version": "1.1",
   "file_size": "18 MB",
   "platform": "Android",
-  "updated": "September 2026",
+  "updated": "September 9, 2026",
   "button_text": "Download Masterkit APK",
   "note": "Download the latest Masterkit GFX APK. If Android reports a package or signature conflict, uninstall the older Masterkit build before installing this release."
 }
